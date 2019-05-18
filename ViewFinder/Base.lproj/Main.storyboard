@@ -99,7 +99,7 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="6BX-r5-RUd"/>
                     </view>
-                    <navigationItem key="navigationItem" title="Add New Photo" id="bb9-KM-n76"/>
+                    <navigationItem key="navigationItem" title="Add New Photo" id="bb9-KM-n76" customClass="AddPhotoViewCont"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Pvk-y2-af4" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
